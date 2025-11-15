@@ -2,7 +2,7 @@
   "name": "ADNAN-MD",
   "description": "Javascript WhatsApp bot powered by Bandaheali",
   "logo": "https://cdn-bandaheali.zone.id/edith/alive.jpg",
-  "keywords": ["EDITH-MD", "WhatsApp Bot", "Bandaheali"],
+  "keywords": ["ADNAN-MD", "WhatsApp Bot", "Bandaheali"],
   "success_url": "/",
   "stack": "container",
   "env": {
